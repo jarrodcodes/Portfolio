@@ -1,5 +1,9 @@
 * {
-    color: white;
     background-color: dimgray;
-    text-align: center;
+    color: white;
+    font-family: helvetica;
+}
+
+p {
+    text-align: left;
 }
