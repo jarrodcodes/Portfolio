@@ -17,6 +17,10 @@ h1{
     margin:0px auto;
     color: gray;
     background-color: lightgray;
+    border-width: 5px;
+    border-color: lightgray;
+    border-style: solid;
+    border-radius: 15px;
 }
 
 p{
