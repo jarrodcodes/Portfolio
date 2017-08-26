@@ -1,26 +1,31 @@
 *{
-    background-color: dimgray;
+    background-color: gray;
+    font-family: helvetica;
+    position: relative;
+    top:3%;
 }
 
-h1{  
-    text-align: center;
+h1{
+    background:lightgray;
+    width:50%;
+    margin:0px auto;
+    color: gray;
+}
+
+.content{
+    width:50%;
+    margin:0px auto;
+    color: gray;
+    background-color: lightgray;
 }
 
 p{
-
-    font-family: helvetica;
     background-color: lightgray;
-    text-align: center;
-    position: fixed;
-    width: 500px;
-    height: 500px;
-    top: 50%;
-    left: 50%;
-    margin-left: -250px;
-    margin-top: -250px;
-    font-size: 50px;
-    color: dimgrey;
-    line-height: 500px
+}
 
-    
+.image{
+
+}
+.imagesurround{
+    text-align: right 
 }
